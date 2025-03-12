@@ -21,7 +21,7 @@
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Get from Telegram's @BotFather",
+            "description": "7500569736:AAGmzGeGeSELdyspdFSZs1jgFWBJYAs0N3o",
             "required": true
         },
         "FOOTER_MESSAGE": {
